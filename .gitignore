@@ -1,0 +1,65 @@
+# ============================
+# IntelliJ IDEA
+# ============================
+.idea/
+*.iml
+*.iws
+out/
+
+# ============================
+# VS Code
+# ============================
+.vscode/
+
+# ============================
+# Maven
+# ============================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ============================
+# Gradle
+# ============================
+.gradle/
+build/
+!src/**/build/
+
+# Logs
+*.log
+
+# ============================
+# Java / JVM
+# ============================
+*.class
+*.jar
+*.war
+*.ear
+
+# ============================
+# Sistema Operacional
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Arquivos temporários / backup
+# ============================
+*.tmp
+*.bak
+*.swp
+*~
+*.cache
+
+# ============================
+# Ambiente / Segurança
+# ============================
+.env
+.env.*
+*.keystore
+
+
+
