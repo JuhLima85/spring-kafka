@@ -17,9 +17,13 @@
 	<licenses>
 		<license/>
 	</licenses>
-	<developers>
-		<developer/>
-	</developers>
+    <developers>
+        <developer>
+            <id>juliana.souza</id>
+            <name>Juliana Souza</name>
+            <email>julianajls13@gmail.com</email>
+        </developer>
+    </developers>
 	<scm>
 		<connection/>
 		<developerConnection/>
